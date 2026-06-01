@@ -1,0 +1,12 @@
+2026-05-31 12:27:39 INFO  DriverFactory - Initializing Chrome Driver
+2026-05-31 12:27:45 INFO  DriverFactory - Chrome Browser Launched Successfully
+2026-05-31 12:27:45 INFO  LoginSteps - Launching Amazon application
+2026-05-31 12:27:46 INFO  LoginSteps - Clicking Sign In button
+2026-05-31 12:27:51 INFO  LoginSteps - Entering email address
+2026-05-31 12:27:52 INFO  LoginSteps - Clicking Continue button
+2026-05-31 12:27:53 INFO  LoginSteps - Entering password
+2026-05-31 12:27:53 INFO  LoginSteps - Clicking Login button
+2026-05-31 12:27:58 INFO  LoginSteps - Verifying successful login
+2026-05-31 12:27:58 INFO  LoginSteps - Login verification completed
+2026-05-31 12:27:59 INFO  DriverFactory - Closing Browser
+2026-05-31 12:28:00 INFO  DriverFactory - Browser Closed
